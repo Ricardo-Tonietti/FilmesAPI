@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/ricardo/treinamentos/dotNet/alura/FilmesAPI/FilmesAPI.csproj": {}
+    "/home/ricardo/treinamentos/dotNet/alura/FilmesAPI/FilmesAPI/FilmesAPI.csproj": {}
   },
   "projects": {
-    "/home/ricardo/treinamentos/dotNet/alura/FilmesAPI/FilmesAPI.csproj": {
+    "/home/ricardo/treinamentos/dotNet/alura/FilmesAPI/FilmesAPI/FilmesAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ricardo/treinamentos/dotNet/alura/FilmesAPI/FilmesAPI.csproj",
+        "projectUniqueName": "/home/ricardo/treinamentos/dotNet/alura/FilmesAPI/FilmesAPI/FilmesAPI.csproj",
         "projectName": "FilmesAPI",
-        "projectPath": "/home/ricardo/treinamentos/dotNet/alura/FilmesAPI/FilmesAPI.csproj",
+        "projectPath": "/home/ricardo/treinamentos/dotNet/alura/FilmesAPI/FilmesAPI/FilmesAPI.csproj",
         "packagesPath": "/home/ricardo/.nuget/packages/",
-        "outputPath": "/home/ricardo/treinamentos/dotNet/alura/FilmesAPI/obj/",
+        "outputPath": "/home/ricardo/treinamentos/dotNet/alura/FilmesAPI/FilmesAPI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/ricardo/.nuget/NuGet/NuGet.Config"

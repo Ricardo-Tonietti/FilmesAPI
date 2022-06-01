@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a024Gxwq1apswEp1txxsN7siRVPTQ/icVUpdmSaR4HZsawQiK6lfAfRC5h+LZ847JvxMkrrgvJy5zApZwzFonA==",
+  "dgSpecHash": "iRTOX/U152jYu0qOPCrVOTpuGQEEySPAu5TRb/kwMDs6T4RMZ5oYOIsIVxzu1ahfBoyCIDso+VOKCDk1DKViNQ==",
   "success": true,
-  "projectFilePath": "/home/ricardo/treinamentos/dotNet/alura/FilmesAPI/FilmesAPI.csproj",
+  "projectFilePath": "/home/ricardo/treinamentos/dotNet/alura/FilmesAPI/FilmesAPI/FilmesAPI.csproj",
   "expectedPackageFiles": [
     "/home/ricardo/.nuget/packages/automapper/11.0.0/automapper.11.0.0.nupkg.sha512",
     "/home/ricardo/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/11.0.0/automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
