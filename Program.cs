@@ -11,7 +11,7 @@ internal class Program
     {
         var builder = WebApplication.CreateBuilder(args);
 
-        builder.Services.AddDbContext<FilmeContext>(
+        builder.Services.AddDbContext<AppDbContext>(
           opt => opt.UseMySql(
               "server=localhost;initial catalog=FilmeDb;uid=root;password=Info@123",
               Microsoft.EntityFrameworkCore.ServerVersion.Parse("8.0.29-mysql"))
